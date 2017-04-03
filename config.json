@@ -1,0 +1,7 @@
+{
+  "logFile": "komprmat.log",
+  "logLevel": "logging.INFO",
+  "userDB": "kompromat.db",
+  "bot_id": "SLACKBOTID",
+  "bot_token": "SLACKBOTTOKEN"
+}
